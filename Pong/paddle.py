@@ -4,4 +4,4 @@ class Paddle():
         pass
 
     def main():
-        pass
+        print "Hello World!"
